@@ -9,7 +9,7 @@ These frameworks/libraries are node plugins
 * [Chai](http://chaijs.com)
 -- BDD/TDD assertion library
 
-* [Mocha](http://visionmedia.github.io/mocha/)
+* [Mocha](http://mochajs.org/)
 -- Mocha is a feature-rich JavaScript test framework
 
 * [Sinon](http://sinonjs.org)
